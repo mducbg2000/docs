@@ -15,7 +15,7 @@ export default defineNuxtConfig({
     "@nuxt/ui",
   ],
   site: {
-    name: "DucNM Docs",
+    name: "MDuc Docs",
   },
   i18n: {
     defaultLocale: "en",
